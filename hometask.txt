@@ -1,1 +1,2 @@
-Ветки получились одинаковые
+Ответ на 2 вопрос - Ветки получились одинаковые
+Ответ на 4 вопрос - This branch is 4 commits ahead, 3 commits behind boots_buttons.
